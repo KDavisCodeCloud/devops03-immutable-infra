@@ -1,0 +1,1 @@
+database_url = "postgres://django-rds.cnj2oykbifhh.us-east-1.rds.amazonaws.com"
